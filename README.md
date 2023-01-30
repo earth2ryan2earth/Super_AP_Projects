@@ -6,6 +6,7 @@ Guess the Password! is a simple guessing game.
 
 ```bash
 git clone --branch password https://github.com/earth2ryan2earth/Super_AP_Projects.git
+cd Super_AP_Projects
 ```
 
 ## Execution
