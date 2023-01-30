@@ -10,8 +10,10 @@ git clone --branch password https://github.com/earth2ryan2earth/Super_AP_Project
 
 ## Execution
 
+Linux
+
 ```bash
-./password.exe
+./password
 ```
 
 ## How to Play
