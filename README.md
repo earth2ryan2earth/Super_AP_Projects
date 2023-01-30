@@ -5,7 +5,7 @@ Guess the Password! is a simple guessing game.
 ## Installation
 
 ```bash
-git clone --branch password https://github.com/earth2ryan2earth/Super_AP_Projects.git
+git clone --branch --single-branch password https://github.com/earth2ryan2earth/Super_AP_Projects.git
 cd Super_AP_Projects
 ```
 
